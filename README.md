@@ -12,6 +12,7 @@ In this workshop, we will:
 ### Note on data loading
 - If working **locally**: make sure the CSV file is in the same folder as this notebook.
 - If working in **Google Colab**: upload the CSV file when prompted.
+(dataset source: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset?resource=download)
 
 ## Work in Google Colab (Recommended)
 
