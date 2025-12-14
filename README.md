@@ -2,6 +2,20 @@
 
 This repository contains materials for our presentation on statistical modeling, covering the full workflow from model specification to model fitting, loss functions, and diagnostic evaluation.
 
+In this workshop, we will:
+*   Explore a real-world student lifestyle dataset
+*   Specify a statistical model
+*   Fit a linear regression model
+*   Interpret results
+*   Check key model assumptions
+
+### Note on data loading
+- If working **locally**: make sure the CSV file is in the same folder as this notebook.
+- If working in **Google Colab**: upload the CSV file when prompted.
+
 ## Work in Google Colab (Recommended)
 
 [Open notebook in Google Colab](https://colab.research.google.com/drive/1xSbtb-aiAXOlYpDEqv6xqqNnPPga91uj?usp=sharing)
+
+## View solution in Google Colab (Recommended)
+[Open notebook in Google Colab](https://colab.research.google.com/drive/1jVXzgHPAAcWgNN-yowOVP-sNpXjtBlYv?usp=sharing)
