@@ -15,7 +15,7 @@ In this workshop, we will:
 
 ## Work in Google Colab (Recommended)
 
-[Open notebook in Google Colab](https://colab.research.google.com/drive/1xSbtb-aiAXOlYpDEqv6xqqNnPPga91uj?usp=sharing)
+[Open workshop in Google Colab](https://colab.research.google.com/drive/1xSbtb-aiAXOlYpDEqv6xqqNnPPga91uj?usp=sharing)
 
 ## View solution in Google Colab (Recommended)
-[Open notebook in Google Colab](https://colab.research.google.com/drive/1jVXzgHPAAcWgNN-yowOVP-sNpXjtBlYv?usp=sharing)
+[Open solution of the workshop in Google Colab](https://colab.research.google.com/drive/1jVXzgHPAAcWgNN-yowOVP-sNpXjtBlYv?usp=sharing)
