@@ -16,7 +16,7 @@ In this workshop, we will:
 
 ## Work in Google Colab (Recommended)
 
-[Open workshop in Google Colab](https://colab.research.google.com/https://gitlab.rz.htw-berlin.de/s0597691/statistical-models/tutorial/Workshop_statistical_models.ipynb)
+[Open workshop in Google Colab](https://colab.research.google.com/gitlab/s0597691/statistical-models/-/blob/main/tutorial/Workshop_statistical_models.ipynb?ref_type=heads)
 
 
 ## View solution in Google Colab (Recommended)
